@@ -15,7 +15,11 @@ const App = () => {
         <Route path="/about" element={<About />} />
         <Route path="/single-page/:id" element={<SinglePage />} />
       </Routes>
-      <Footer/>
+      <h1>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid,
+        recusandae.
+      </h1>
+      <Footer />
     </div>
   );
 };
