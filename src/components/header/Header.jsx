@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       <NavLink to={"/"}>
-        <h1>Logo</h1>
+        <h1>Logo1</h1>
       </NavLink>
       <nav>
         <NavLink to={"/"}>Home</NavLink>
