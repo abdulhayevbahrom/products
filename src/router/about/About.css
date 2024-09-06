@@ -1,0 +1,21 @@
+.about {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: black;
+  color: #fff;
+  display: flex;
+}
+
+.about .left {
+  width: 50%;
+  height: 100%;
+  background-color: red;
+  padding-left: 5%;
+}
+
+.about .right {
+  width: 50%;
+  height: 100%;
+  background-color: yellow;
+  padding-right: 5%;
+}
